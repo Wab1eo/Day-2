@@ -14,4 +14,6 @@ Here is an overview of Vim's history:
   2006 May 8  - Vim 7.0: Spell check, omni completion, undo branches, tabs.
   2015 Nov 2  - The Neovim fork released v0.1.0 with many enhancement, arguably help boost the original Vim development.
   2016 Sep 12 - Vim 8.0: Jobs, async I/O, native packages.
-
+  2021 Dec 13 - Vim 8.2:  Adds popup windows, text properties, and improved terminal support.
+  2022 Jun 28 - Vim 9.0:  Introduced Vim9 script — a faster, more structured scripting language.
+  2024 Apr 9  - Vim 9.1:  Further improvements to Vim9 script, LSP integration, and performance tuning.
